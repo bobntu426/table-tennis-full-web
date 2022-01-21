@@ -1,0 +1,9 @@
+type Query {
+    getAllPeople:[String]
+}
+
+type Mutation {
+   deleteAllData:String
+}
+
+
